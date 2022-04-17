@@ -1,0 +1,2 @@
+libvirt_python==8.2.0
+py7zr==0.18.3
